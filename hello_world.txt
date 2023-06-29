@@ -1,3 +1,5 @@
 Hello World!
 
 What up my doggy?
+
+It is important to write a good commit. Always remember that.
